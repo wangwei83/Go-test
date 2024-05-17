@@ -3,6 +3,8 @@
 参考的原始链接
 'https://blog.csdn.net/m0_70127749/article/details/124942171'
 
+conda create -n Go-test python
+
 ## 深度学习与围棋
 https://item.jd.com/12797973.html
 
