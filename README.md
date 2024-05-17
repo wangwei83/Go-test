@@ -15,7 +15,7 @@ conda create -n Go-test python
 https://item.jd.com/12797973.html
 
 <div align="center">
-    <img src="image\深度学习与围棋2.png" width="400" style="left;"/>
+    <img src="image\深度学习与围棋3.jpg" width="400" style="left;"/>
 </div>
 
 ## 知识：我跟爸爸学编程：从Python到C++
