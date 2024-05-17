@@ -15,6 +15,6 @@ https://item.jd.com/12900874.html
 </div>
 
 <div align="center">
-    <img src="image\我跟爸爸学习编程-从Python到C++.png" width="400"/>
+    <img src="image\我跟爸爸学编程-从Python到C++.jpg" width="400"/>
 </div>
 
