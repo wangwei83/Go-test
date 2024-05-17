@@ -11,7 +11,7 @@ https://item.jd.com/12900874.html
 
 
 <div align="center">
-    <img src="image\深度学习与围棋.png" width="400"/>
+    <img src="image\深度学习与围棋2.png" width="400"/>
 </div>
 
 <div align="center">
