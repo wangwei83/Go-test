@@ -18,3 +18,7 @@ https://item.jd.com/12900874.html
     <img src="image\我跟爸爸学编程-从Python到C++.jpg" width="400"/>
 </div>
 
+<div align="center">
+    <img src="image\画一张包含“围棋、科技、国学”的夏季风景画.png" width="400"/>
+</div>
+
