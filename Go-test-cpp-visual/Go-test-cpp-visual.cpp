@@ -128,6 +128,35 @@ void DrawBoard(HDC hdc)
     }
 }
 
+
+#include "framework.h"
+#include "Go-test-cpp-visual.h"
+#include <vector>
+#include <utility>
+#include <cstdlib>
+#include <ctime>
+
+#define MAX_LOADSTRING 100
+#define BOARD_SIZE 19
+#define CELL_SIZE 30
+#define MARGIN 20
+
+// 全局变量:
+//HINSTANCE hInst;                                // 当前实例
+//WCHAR szTitle[MAX_LOADSTRING];                  // 标题栏文本
+//WCHAR szWindowClass[MAX_LOADSTRING];            // 主窗口类名
+//int board[BOARD_SIZE][BOARD_SIZE] = { 0 };      // 棋盘状态，0表示空，1表示黑子，2表示白子
+//bool isBlackTurn = true;                        // 轮到黑子
+
+// 此代码模块中包含的函数的前向声明:
+ATOM                MyRegisterClass(HINSTANCE hInstance);
+BOOL                InitInstance(HINSTANCE, int);
+LRESULT CALLBACK    WndProc(HWND, UINT, WPARAM, LPARAM);
+INT_PTR CALLBACK    About(HWND, UINT, WPARAM, LPARAM);
+
+void DrawBoard(HDC hdc);
+void PlaceStone(int x, int y);
+void ComputerMove();
 void PlaceStone(int x, int y)
 {
     int i = (x - MARGIN + CELL_SIZE / 2) / CELL_SIZE;

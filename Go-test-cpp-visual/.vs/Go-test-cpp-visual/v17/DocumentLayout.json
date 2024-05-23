@@ -30,19 +30,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "framework.h",
-              "DocumentMoniker": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\framework.h",
-              "RelativeDocumentMoniker": "framework.h",
-              "ToolTip": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\framework.h",
-              "RelativeToolTip": "framework.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\Resource.h",
+              "RelativeDocumentMoniker": "Resource.h",
+              "ToolTip": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\Resource.h",
+              "RelativeToolTip": "Resource.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-22T16:07:56.812Z",
+              "WhenOpened": "2024-05-22T16:07:47.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Go-test-cpp-visual.cpp",
+              "DocumentMoniker": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\Go-test-cpp-visual.cpp",
+              "RelativeDocumentMoniker": "Go-test-cpp-visual.cpp",
+              "ToolTip": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\Go-test-cpp-visual.cpp",
+              "RelativeToolTip": "Go-test-cpp-visual.cpp",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAA4wJ8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T15:21:29.132Z",
               "EditorCaption": ""
             },
             {
@@ -55,21 +67,19 @@
               "RelativeToolTip": "targetver.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-22T16:07:54.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T16:07:54.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Resource.h",
-              "DocumentMoniker": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\Resource.h",
-              "RelativeDocumentMoniker": "Resource.h",
-              "ToolTip": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\Resource.h",
-              "RelativeToolTip": "Resource.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\framework.h",
+              "RelativeDocumentMoniker": "framework.h",
+              "ToolTip": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\framework.h",
+              "RelativeToolTip": "framework.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-22T16:07:47.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T16:07:56.812Z"
             },
             {
               "$type": "Document",
@@ -81,21 +91,7 @@
               "RelativeToolTip": "Go-test-cpp-visual.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-22T15:28:32.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Go-test-cpp-visual.cpp",
-              "DocumentMoniker": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\Go-test-cpp-visual.cpp",
-              "RelativeDocumentMoniker": "Go-test-cpp-visual.cpp",
-              "ToolTip": "C:\\Users\\19002\\Desktop\\Go-test\\Go-test-cpp-visual\\Go-test-cpp-visual.cpp",
-              "RelativeToolTip": "Go-test-cpp-visual.cpp",
-              "ViewState": "AQIAALEAAAAAAAAAAAAAAHQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-22T15:21:29.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:28:32.18Z"
             }
           ]
         }
