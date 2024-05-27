@@ -37,12 +37,12 @@ class Application(Tk):
 		# 悔棋次数，次数大于0才可悔棋，初始置0（初始不能悔棋），悔棋后置0，下棋或弃手时恢复为1，以禁止连续悔棋
 		self.regretchance=0
 		# 图片资源，存放在当前目录下的/Pictures/中
-		self.photoW=PhotoImage(file = "./Pictures/W.png")
-		self.photoB=PhotoImage(file = "./Pictures/B.png")
-		self.photoBD=PhotoImage(file = "./Pictures/"+"BD"+"-"+str(self.mode_num)+".png")
-		self.photoWD=PhotoImage(file = "./Pictures/"+"WD"+"-"+str(self.mode_num)+".png")
-		self.photoBU=PhotoImage(file = "./Pictures/"+"BU"+"-"+str(self.mode_num)+".png")
-		self.photoWU=PhotoImage(file = "./Pictures/"+"WU"+"-"+str(self.mode_num)+".png")
+		self.photoW=PhotoImage(file = "./Go-test-python/Pictures/W.png")
+		self.photoB=PhotoImage(file = "./Go-test-python/Pictures/B.png")
+		self.photoBD=PhotoImage(file = "./Go-test-python/Pictures/"+"BD"+"-"+str(self.mode_num)+".png")
+		self.photoWD=PhotoImage(file = "./Go-test-python/Pictures/"+"WD"+"-"+str(self.mode_num)+".png")
+		self.photoBU=PhotoImage(file = "./Go-test-python/Pictures/"+"BU"+"-"+str(self.mode_num)+".png")
+		self.photoWU=PhotoImage(file = "./Go-test-python/Pictures/"+"WU"+"-"+str(self.mode_num)+".png")
 		# 用于黑白棋子图片切换的列表
 		self.photoWBU_list=[self.photoBU,self.photoWU]
 		self.photoWBD_list=[self.photoBD,self.photoWD]
