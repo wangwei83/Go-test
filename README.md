@@ -18,15 +18,15 @@ conda create -n Go-test python
 
 ## 知识：我跟爸爸学编程：从Python到C++ [link](https://item.jd.com/12900874.html)
 <div align="center">
-    <img src="image\我跟爸爸学编程-从Python到C++.jpg" width="400" style="left;"/>
+    <img src="Go-test-python\image\我跟爸爸学编程-从Python到C++.jpg" width="400" style="left;"/>
 </div>
 
 ## 认知：深度学习与围棋  [link](https://item.jd.com/12797973.html)
 <div align="center">
-    <img src="image\深度学习与围棋3.jpg" width="400" style="left;"/>
+    <img src="Go-test-python\image\深度学习与围棋3.jpg" width="400" style="left;"/>
 </div>
 
 ## 智慧：AI画一张包含“围棋、科技、国学”的夏季风景画
 <div align="center">
-    <img src="image\画一张包含“围棋、科技、国学”的夏季风景画.png" width="400" style="left;"/>
+    <img src="Go-test-python\image\画一张包含“围棋、科技、国学”的夏季风景画.png" width="400" style="left;"/>
 </div>
